@@ -32,4 +32,7 @@ Cсылка : https://gb.ru/lessons/390680/homework
 
 4. Прописание алгоритма . 
 
- 
+5. Блок схема 
+
+
+    ![logo](ECuQc8N2Icw.jpg)
